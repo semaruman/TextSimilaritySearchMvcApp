@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "d6o++OSnQ7dVPc0kHOQLN/jPXoAf2Vy3X4QlBT06rik=",
+  "Source": "TextSimilaritySearchMvcApp",
+  "BasePath": "_content/TextSimilaritySearchMvcApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

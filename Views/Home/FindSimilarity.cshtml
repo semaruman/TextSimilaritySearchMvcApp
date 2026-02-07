@@ -1,0 +1,27 @@
+@{
+    ViewBag.Title = "Поиск схожести текстов";
+}
+
+@model TextSimilarity
+<h1>Поиск схожести текстов</h1>
+
+<form asp-action="FindSimilarity" method="post">
+    <div>
+        <h2>Первый текст:</h2>
+        <input type="text" asp-for="EtalonText"/>
+        <span asp-validation-for="EtalonText"></span>
+    </div>
+    
+    <div>
+        <h2>Второй текст:</h2>
+        <input type="text" asp-for="CopyText"/>
+        <span asp-validation-for="CopyText"></span>
+    </div>
+
+    <input type="submit">
+
+    <div>
+        <h2>Готовый текст:</h2>
+        <p>@ViewBag.ResText</p>
+    </div>
+</form>
