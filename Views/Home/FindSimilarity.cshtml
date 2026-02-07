@@ -8,13 +8,13 @@
 <form asp-action="FindSimilarity" method="post">
     <div>
         <h2>Первый текст:</h2>
-        <input type="text" asp-for="EtalonText"/>
+        <textarea type="text" asp-for="EtalonText"></textarea>
         <span asp-validation-for="EtalonText"></span>
     </div>
     
     <div>
         <h2>Второй текст:</h2>
-        <input type="text" asp-for="CopyText"/>
+        <textarea type="text" asp-for="CopyText"></textarea>
         <span asp-validation-for="CopyText"></span>
     </div>
 

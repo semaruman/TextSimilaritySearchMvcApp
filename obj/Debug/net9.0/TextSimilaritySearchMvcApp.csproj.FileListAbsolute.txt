@@ -28,3 +28,4 @@ D:\C#\Мои идеи и проекты\TextSimilaritySearchMvcApp\obj\Debug\net
 D:\C#\Мои идеи и проекты\TextSimilaritySearchMvcApp\obj\Debug\net9.0\TextSimilaritySearchMvcApp.pdb
 D:\C#\Мои идеи и проекты\TextSimilaritySearchMvcApp\obj\Debug\net9.0\TextSimilaritySearchMvcApp.genruntimeconfig.cache
 D:\C#\Мои идеи и проекты\TextSimilaritySearchMvcApp\obj\Debug\net9.0\ref\TextSimilaritySearchMvcApp.dll
+D:\C#\Мои идеи и проекты\TextSimilaritySearchMvcApp\obj\Debug\net9.0\TextSimilaritySearchMvcApp.sourcelink.json
